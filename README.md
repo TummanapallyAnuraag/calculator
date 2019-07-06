@@ -14,6 +14,8 @@ This is a simple calculator application, showing how to use `unittest`, `pytest`
 
 - `coverage run -m pytest`
 
+![result.png](result.png)
+
 # Requirements
 
 - `unittest`
